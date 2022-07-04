@@ -93,7 +93,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Books-Recommender-System-Using-Machine-Learning
+https://github.com/Sukruth097/Books-Recommender-System-Using-Machine-Learning
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -125,9 +125,9 @@ streamlit run app.py
 
 
 ```bash
-Author: Bappy Ahmed
+Author: Sukruth A V
 Data Scientist
-Email: entbappy73@gmail.com
+Email: sukruthav007@gmail.com
 
 ```
 
