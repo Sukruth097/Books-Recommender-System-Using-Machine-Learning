@@ -1,7 +1,4 @@
 '''
-Author: Bappy Ahmed
-Email: entbappy73@gmail.com
-Date: 2021-Dec-18
 '''
 
 import pickle
